@@ -10,7 +10,7 @@ authors = ["EarningsFeed <contact@earningsfeed.com>"]
 # These 3 fields = 3 dofollow backlinks from crates.io
 homepage = "https://earningsfeed.com"
 repository = "https://github.com/earningsfeed/earningsfeed-rust"
-documentation = "https://earningsfeed.com/docs/api"
+documentation = "https://earningsfeed.com/api/docs"
 
 # Affects crates.io search ranking
 keywords = ["sec", "edgar", "filings", "insider-trading", "finance"]

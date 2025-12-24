@@ -233,7 +233,7 @@ let client = EarningsFeed::with_config(config)?;
 
 ## API Reference
 
-Full API documentation: [earningsfeed.com/docs/api](https://earningsfeed.com/docs/api)
+Full API documentation: [earningsfeed.com/api/docs](https://earningsfeed.com/api/docs)
 
 ## License
 
